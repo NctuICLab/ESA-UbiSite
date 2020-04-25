@@ -1,0 +1,39 @@
+>sp|A6ZKI3|F127A_HUMAN Protein FAM127A OS=Homo sapiens GN=FAM127A PE=1 SV=1
+=MAVESRVTQEEI<u title="Position: 13;  Ubiquitylation: N;  Score: 0.229491"><font color=#bbbbbb>K</Font></u><u title="Position: 14;  Ubiquitylation: N;  Score: 0.108705"><font color=#bbbbbb>K</Font></u>EPE<u title="Position: 18;  Ubiquitylation: N;  Score: 0.247883"><font color=#bbbbbb>K</Font></u>PIDRE<u title="Position: 24;  Ubiquitylation: N;  Score: 0.375103"><font color=#bbbbbb>K</Font></u>TCPLLLRVFTTNNGRHHRMDEFSRGNVPSSELQIYTWMDATL<u title="Position: 67;  Ubiquitylation: N;  Score: 0.340994"><font color=#bbbbbb>K</Font></u>ELT<br>SLV<u title="Position: 74;  Ubiquitylation: N;  Score: 0.473268"><font color=#bbbbbb>K</Font></u>EVYPEAR<u title="Position: 82;  Ubiquitylation: Y;  Score: 0.603864"><font color=#ff00ff>K</Font></u><u title="Position: 83;  Ubiquitylation: Y;  Score: 0.608616"><font color=#ff00ff>K</Font></u>GTHFNFAIVFTDV<u title="Position: 97;  Ubiquitylation: Y;  Score: 0.742917"><font color=#ff00ff>K</Font></u>RPGYRV<u title="Position: 104;  Ubiquitylation: N;  Score: 0.281978"><font color=#bbbbbb>K</Font></u>EIGSTMSGR<u title="Position: 114;  Ubiquitylation: N;  Score: 0.370272"><font color=#bbbbbb>K</Font></u>GTDDSMTLQSQ<u title="Position: 126;  Ubiquitylation: Y;  Score: 0.633206"><font color=#ff00ff>K</Font></u>FQIGDYLDIAITPP<br>NRAPPPSGRMRPY
+<br>
+13	VESRVTQEEIKKEPEKPIDRE	0	0.229491
+14	ESRVTQEEIKKEPEKPIDREK	0	0.108705
+18	TQEEIKKEPEKPIDREKTCPL	0	0.247883
+24	KEPEKPIDREKTCPLLLRVFT	0	0.375103
+67	QIYTWMDATLKELTSLVKEVY	0	0.340994
+74	ATLKELTSLVKEVYPEARKKG	0	0.473268
+82	LVKEVYPEARKKGTHFNFAIV	1	0.603864
+83	VKEVYPEARKKGTHFNFAIVF	1	0.608616
+97	FNFAIVFTDVKRPGYRVKEIG	1	0.742917
+104	TDVKRPGYRVKEIGSTMSGRK	0	0.281978
+114	KEIGSTMSGRKGTDDSMTLQS	0	0.370272
+126	TDDSMTLQSQKFQIGDYLDIA	1	0.633206
+>sp|O43164|PJA2_HUMAN E3 ubiquitin-protein ligase Praja-2 OS=Homo sapiens GN=PJA2 PE=1 SV=4
+=MSQYTE<u title="Position: 7;  Ubiquitylation: N;  Score: 0.389267"><font color=#bbbbbb>K</Font></u>EPAAMDQESG<u title="Position: 18;  Ubiquitylation: N;  Score: 0.293056"><font color=#bbbbbb>K</Font></u>AVWP<u title="Position: 23;  Ubiquitylation: Y;  Score: 0.76543"><font color=#ff00ff>K</Font></u>PAGGYQTITGRRYGRRHAYVSF<u title="Position: 46;  Ubiquitylation: N;  Score: 0.369476"><font color=#bbbbbb>K</Font></u>PCMTRHERSLGRAGDDYEVLELDD<br>VP<u title="Position: 73;  Ubiquitylation: N;  Score: 0.351211"><font color=#bbbbbb>K</Font></u>ENSSGSSPLDQVDSSLPSEPIFE<u title="Position: 97;  Ubiquitylation: N;  Score: 0.301136"><font color=#bbbbbb>K</Font></u>SETEIPTCGSALNQTTESSQSFVAVHHSEEGRDTLGSSTNLHN<br>HSEGEYIPGACSASSVQNGIALVHTDSYDPDG<u title="Position: 173;  Ubiquitylation: Y;  Score: 0.688554"><font color=#ff00ff>K</Font></u>HGEDNDHLQLSAEVVEGSRYQESLGNTVFELENREAE<br>AYTGLSPPVPSFNCEVRDEFEELDSVPLV<u title="Position: 240;  Ubiquitylation: N;  Score: 0.341711"><font color=#bbbbbb>K</Font></u>SSAGDTEFVHQNSQEIQRSSQDEMVST<u title="Position: 268;  Ubiquitylation: N;  Score: 0.312358"><font color=#bbbbbb>K</Font></u>QQNNTSQERQTE<br>HSPEDAACGPGHICSEQNTNDRE<u title="Position: 304;  Ubiquitylation: Y;  Score: 0.52123"><font color=#ff00ff>K</Font></u>NHGSSPEQVVRP<u title="Position: 317;  Ubiquitylation: Y;  Score: 0.683767"><font color=#ff00ff>K</Font></u>VR<u title="Position: 320;  Ubiquitylation: N;  Score: 0.455311"><font color=#bbbbbb>K</Font></u>LISSSQVDQETGFNRHEA<u title="Position: 339;  Ubiquitylation: N;  Score: 0.321072"><font color=#bbbbbb>K</Font></u>QRSVQRWREAL<br>EVEESGSDDLLI<u title="Position: 363;  Ubiquitylation: N;  Score: 0.410781"><font color=#bbbbbb>K</Font></u>CEEYDGEHDCMFLDPPYSRVITQRETENNQMTSESGATAGRQEVDNTFWNGCGDYYQ<br>LYD<u title="Position: 424;  Ubiquitylation: N;  Score: 0.249455"><font color=#bbbbbb>K</Font></u>DEDSSECSDGEWSASLPHRFSGTE<u title="Position: 449;  Ubiquitylation: Y;  Score: 0.768438"><font color=#ff00ff>K</Font></u>DQSSSDESWETLPG<u title="Position: 464;  Ubiquitylation: Y;  Score: 0.832064"><font color=#ff00ff>K</Font></u>DENEPELQSDSSGPEEENQELSLQEG<br>EQTSLEEGEIPWLQYNEVNESSSDEGNEPANEFAQPAFMLDGNNNLEDDSSVSEDLDVDWSLFDGFADGL<br>GVAEAISYVDPQFLTYMALEERLAQAMETALAHLESLAVDVEVANPPAS<u title="Position: 610;  Ubiquitylation: Y;  Score: 0.591288"><font color=#ff00ff>K</Font></u>ESIDGLPETLVLEDHTAIGQ<br>EQCCPICCSEYI<u title="Position: 643;  Ubiquitylation: N;  Score: 0.0358318"><font color=#bbbbbb>K</Font></u>DDIATELPCHHFFH<u title="Position: 658;  Ubiquitylation: N;  Score: 0.152164"><font color=#bbbbbb>K</Font></u>PCVSIWLQ<u title="Position: 667;  Ubiquitylation: N;  Score: 0.345236"><font color=#bbbbbb>K</Font></u>SGTCPVCRRHFPPAVIEASAAPSSEPDPDAPPS<br>NDSIAEAPi
+<br>
+7	MSQYTEKEPAAMDQESG	0	0.389267
+18	EPAAMDQESGKAVWPKPAGGY	0	0.293056
+23	DQESGKAVWPKPAGGYQTITG	1	0.76543
+46	YGRRHAYVSFKPCMTRHERSL	0	0.369476
+73	YEVLELDDVPKENSSGSSPLD	0	0.351211
+97	SSLPSEPIFEKSETEIPTCGS	0	0.301136
+173	VHTDSYDPDGKHGEDNDHLQL	1	0.688554
+240	FEELDSVPLVKSSAGDTEFVH	0	0.341711
+268	RSSQDEMVSTKQQNNTSQERQ	0	0.312358
+304	CSEQNTNDREKNHGSSPEQVV	1	0.52123
+317	GSSPEQVVRPKVRKLISSSQV	1	0.683767
+320	PEQVVRPKVRKLISSSQVDQE	0	0.455311
+339	QETGFNRHEAKQRSVQRWREA	0	0.321072
+363	EESGSDDLLIKCEEYDGEHDC	0	0.410781
+424	GCGDYYQLYDKDEDSSECSDG	0	0.249455
+449	SLPHRFSGTEKDQSSSDESWE	1	0.768438
+464	SDESWETLPGKDENEPELQSD	1	0.832064
+610	DVEVANPPASKESIDGLPETL	1	0.591288
+643	CCPICCSEYIKDDIATELPCH	0	0.0358318
+658	TELPCHHFFHKPCVSIWLQKS	0	0.152164
+667	HKPCVSIWLQKSGTCPVCRRH	0	0.345236
