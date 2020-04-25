@@ -62,3 +62,9 @@ perl ESAUbiSite_main.pl example.fa example_output
 ## Citing ESA-UbiSite
 
 ESA-UbiSite: accurate prediction of human ubiquitination sites by identifying a set of effective negatives Bioinformatics, 2017 [PMID:[28062441](https://www.ncbi.nlm.nih.gov/pubmed/28062441)]
+
+## Contact
+
+- Shinn-Ying Ho: syho@nctu.edu.tw
+- Ming-Ju Tsai: milutsai.bi98g@g2.nctu.edu.tw
+- Jyun-Rong Wang: bengdex.bi99g@g2.nctu.edu.tw
