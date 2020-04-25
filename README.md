@@ -27,7 +27,7 @@ cd src/libsvm_320
 make
 ```
 
-## Run ESA-UbiSite
+## Example of running ESA-UbiSite
 
 create a new folder for the new analysis
 
@@ -42,3 +42,7 @@ perl ESAUbiSite_main.pl example.fa example_output
 ## Result of ESA-UbiSite
 
 [ESAUbiSite_prediction.html](example_output/ESAUbiSite_prediction.html)
+
+## Citing ESA-UbiSite
+
+ESA-UbiSite: accurate prediction of human ubiquitination sites by identifying a set of effective negatives Bioinformatics, 2017 [PMID:[28062441](https://www.ncbi.nlm.nih.gov/pubmed/28062441)]
