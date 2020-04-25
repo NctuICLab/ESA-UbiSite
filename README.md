@@ -43,6 +43,22 @@ perl ESAUbiSite_main.pl example.fa example_output
 
 [ESAUbiSite_prediction.html](example_output/ESAUbiSite_prediction.html)
 
+## Dataset
+
+### The format of datasets
+
+- 1st: accession number of proteins
+- 2nd: residue
+- 3rd: position
+
+### Precalculating Dataset
+
+- [All UbiD protein sequences in FASTA format with sequence identity <= 20%](dataset/ubi_0.2.txt)
+- [Index file of all lysine residues in UbiD](dataset/ubi_0.2_all_sites.txt)
+- [Index file of ubiquitinated lysine residues in UbiD](dataset/ubi_site_0.2_pos.txt)
+- [All ubiquitination sites with window size 21](dataset/positive_window.txt)
+- [All non-validated sites with window size 21](dataset/uncertain_window.txt)
+
 ## Citing ESA-UbiSite
 
 ESA-UbiSite: accurate prediction of human ubiquitination sites by identifying a set of effective negatives Bioinformatics, 2017 [PMID:[28062441](https://www.ncbi.nlm.nih.gov/pubmed/28062441)]
