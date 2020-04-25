@@ -1,6 +1,6 @@
 <?php
     $ubi_color = $argv[1];
-    echo "<font color=#bb0000>Results of ESA-UbiSite: </FONT><BR>";
+    echo "<font color=#bb0000>Prediction results of ESA-UbiSite: </FONT><BR>";
     $class = array("<font color=#777777>N</font>", "Y");
     $bgc = array("<tr bgcolor=#eeeeee>","<tr bgcolor=#ffeeee>");
     $sfp = fopen($ubi_color,"r");

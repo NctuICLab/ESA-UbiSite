@@ -20,7 +20,7 @@ if(!-e $svm_predict){
 if(!-e $svm_scale){
     print STDERR "Please build the svm-scale program first\n";die;
 }
-my $html_results = $output_dir."/results.html";
+my $html_results = $output_dir."/ESAUbiSite_prediction.html";
 if(-e $html_results){
     print STDERR "The results is exist\n";die;
 }
