@@ -40,8 +40,8 @@ perl ESAUbiSite_main.pl example.fa example_output
 ```
 
 ## Result of ESA-UbiSite
-
-[ESAUbiSite_prediction.html](example_output/ESAUbiSite_prediction.html)
+results of example.fa -> example_output/ESAUbiSite_prediction.html
+[ESAUbiSite_prediction.html](https://nctuiclab.github.io/ESA-UbiSite/example_output/ESAUbiSite_prediction.html)
 
 ## Dataset
 
