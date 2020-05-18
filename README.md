@@ -40,6 +40,7 @@ perl ESAUbiSite_main.pl example.fa example_output
 ```
 
 ## Result of ESA-UbiSite
+
 results of example.fa -> example_output/ESAUbiSite_prediction.html
 [ESAUbiSite_prediction.html](https://nctuiclab.github.io/ESA-UbiSite/example_output/ESAUbiSite_prediction.html)
 
@@ -61,7 +62,7 @@ results of example.fa -> example_output/ESAUbiSite_prediction.html
 
 ## Citing ESA-UbiSite
 
-ESA-UbiSite: accurate prediction of human ubiquitination sites by identifying a set of effective negatives Bioinformatics, 2017 [PMID:[28062441](https://www.ncbi.nlm.nih.gov/pubmed/28062441)]
+ESA-UbiSite: accurate prediction of human ubiquitination sites by identifying a set of effective negatives. _*Bioinformatics*_, 2017 [PMID:[28062441](https://www.ncbi.nlm.nih.gov/pubmed/28062441)]
 
 ## Contact
 
